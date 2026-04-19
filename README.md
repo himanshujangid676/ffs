@@ -1,2 +1,0 @@
-# ffs
-minor project
